@@ -1,0 +1,9 @@
+#rodar gulp
+gulp
+
+#fazer qualquer alteração no repositorio branches e para teste rodar
+php -S localhost:808X
+
+#apos terminar e quiser colocar em produção rodar o comando abaixo ele irá copiar para C:/site_ddcred/htdocs os arquivos minificados
+gulp-deploy
+
